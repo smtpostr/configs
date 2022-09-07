@@ -1,23 +1,7 @@
 {
   "User": {
-      "username": {
-        "string": [
-          "Thor",
-          "Loki"
-        ]
-      },
-      "sid": {
-        "string": [
-          "Thor",
-          "Loki"
-        ]
-      },
-      "csrf": {
-        "string": [
-          "Thor",
-          "Loki"
-        ]
-      }
-    }
+      "uname": {"string": ["Thor", "Loki"]}
+      "sid": {"string": ["Thor", "Loki"]}
+      "csrf": {"string": ["Thor", "Loki"]}
   }
 }
