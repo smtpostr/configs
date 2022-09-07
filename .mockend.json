@@ -1,7 +1,7 @@
 {
   "User": {
-    "username": "user",
-    "sid": "cookie",
-    "csrf": "cookie2"
+    "username": { "string": {"user"} },
+    "sid": { "string": {"cookie"} },
+    "csrf": { "string": {"cookie2"} }
   }
 }
