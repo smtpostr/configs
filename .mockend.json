@@ -1,7 +1,0 @@
-{
-  "User": {
-      "uname": {"string": ["Thor", "Loki"]}
-      "sid": {"string": ["Thor", "Loki"]}
-      "csrf": {"string": ["Thor", "Loki"]}
-  }
-}
