@@ -23,7 +23,9 @@
         "username": "",
         "sid": "",
         "csrf": ""
-      }
+      },
+
+      {"rawlink": "https://raw.githubusercontent.com/smtpostr/configs/main/dbalt.json"}
 
    ]
 }

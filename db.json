@@ -3,6 +3,7 @@
     {"config1": [{"username": ""}, {"sid": ""}, {"csrf": ""}]},
     {"config2": [{"username": ""}, {"sid": ""}, {"csrf": ""}]},
     {"config3": [{"username": ""}, {"sid": ""}, {"csrf": ""}]},
-    {"config4": [{"username": ""}, {"sid": ""}, {"csrf": ""}]}
+    {"config4": [{"username": ""}, {"sid": ""}, {"csrf": ""}]},
+    {"rawlink": "https://raw.githubusercontent.com/smtpostr/configs/main/db.json"}
   ]
 }
